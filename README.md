@@ -1,6 +1,6 @@
 # iSilentBoy3 - IP Finder Tool
 
-ئەمە تووڵێکه بۆ نیشاندانی زانیارییەکانی مۆبایل و ئایپی بەکارهێنەر.
+ئەمە تووڵێکه بۆ نیشاندانی زانیارییەکانی مۆبایل و ئایپی بەکارهێنەر
 
 ## تایبەتمەندییەکان
 - نیشاندانی جۆری مۆبایل
@@ -14,4 +14,4 @@
 ## دروستکەر
 [iSilentBoy3](https://github.com/iSilentBoy3)
 # iSilentBoy
-#Black Network - Lemniscate 
+#team <Black Network - Lemniscate> 
